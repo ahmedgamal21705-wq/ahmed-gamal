@@ -1,0 +1,8 @@
+{
+  "name": "Remix آفاق - Afaq",
+  "description": "منصة شباب الفيوم لاكتشاف وتطوير المهارات عبر الورش والدورات والفعاليات في الفيوم",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
